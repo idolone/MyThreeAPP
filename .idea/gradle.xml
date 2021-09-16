@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/mynetwork" />
+            <option value="$PROJECT_DIR$/mygson" />
+            <option value="$PROJECT_DIR$/myintent" />
+            <option value="$PROJECT_DIR$/myjetpack" />
+            <option value="$PROJECT_DIR$/mymedia" />
+            <option value="$PROJECT_DIR$/mynetwork" />
+            <option value="$PROJECT_DIR$/myrxjava" />
+            <option value="$PROJECT_DIR$/mysizeableinterface" />
+            <option value="$PROJECT_DIR$/mysp" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

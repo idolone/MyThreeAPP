@@ -1,0 +1,11 @@
+rootProject.name = "MyThreeAPP"
+include ':app'
+include ':app:mynetwork'
+include ':mynetwork'
+include ':mygson'
+include ':myrxjava'
+include ':mysp'
+include ':myintent'
+include ':mysizeableinterface'
+include ':mymedia'
+include ':myjetpack'
